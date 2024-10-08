@@ -37,20 +37,15 @@
 
     ![SQL](https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
     
 <br>   
 
-- **Data Engineering**:
+- **business intelligence**:
   
     ![Microsoft SQL Server](https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
     ![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-    ![BigDataConcepts](https://img.shields.io/badge/BigDataConcepts-E7282D?style=for-the-badge&logo=ServerFault&logoColor=white)
     ![ETL](https://img.shields.io/badge/ETL-F68D2E?style=for-the-badge&logo=GoToMeeting&logoColor=white)
     ![Data Warehouse](https://img.shields.io/badge/DataWarehouse-D9232E?style=for-the-badge&logo=MicroStrategy&logoColor=white)
-    ![NoSQL](https://img.shields.io/badge/NoSQL-7764FA?style=for-the-badge&logo=Osano&logoColor=white)
-    ![ApacheCassandra](https://img.shields.io/badge/ApacheCassandra-1287B1?style=for-the-badge&logo=ApacheCassandra&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 
     
 <br>
@@ -61,6 +56,7 @@
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+   ![Matplotlib]![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
   
 
 <br>
