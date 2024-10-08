@@ -88,7 +88,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3amory99&show_icons=true&locale=en&layout=compact" alt="3amorrry" /></p>
 <br>how 
 <br>
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3amory99&show_icons=true&locale=en" alt="3amory9999" /></p>>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badrouzlite&show_icons=true&locale=en" alt="3amory9999" /></p>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3amory99&label=Profile%20views&color=0e75b6&style=flat" alt="3amory99" /> </p>
