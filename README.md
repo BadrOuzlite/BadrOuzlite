@@ -16,10 +16,11 @@
 
 ## :sassy_man:  About me
 
-* Enthusiast Data Engineer with hands-on experience in Data Engineering, Big Data, and BI specialized in, Databases, Data Warehouse (DWH), Extract Transform Load (ETL), Data Recovery. Leverage all of them to provide data-driven solutions to help decision-makers
-* Enthusiastic learner focused on Big Data, Data Engineering, and BI.
-* Graduated from Computer Science & Artifactual Intelligence, and also graduated from ITI Data Engineering Track
-* Highly skilled in Python, SQL, NoSQL, Hadoop, Spark, Bash Scripting, DWH, Data Lake, Informatica, Data Vault, Able to build and optimize data pipelines. I am well-equipped to tackle complex problems in data. My goal is to apply my skills and expertise to develop innovative solutions that make a positive impact on my work community. I'm constantly learning and exploring new technologies in this ever-evolving major and look forward to collaborating with others who share my passion.
+* Enthusiastic Data Engineer and Analyst with hands-on experience in Data Engineering, Big Data, and Business Intelligence (BI). Specializing in databases, Data Warehousing (DWH), Extract, Transform, Load (ETL) processes, and data recovery. Proficient in SQL, ETL processes using SSIS and Pentaho, and advanced data analysis with Python (Pandas) and Excel. Committed to leveraging these skills to deliver data-driven solutions that empower decision-makers.
+* Enthusiastic learner eager to explore and master all technologies related to Data Analysis and Business Intelligence (BI)
+* Graduated from Ibn Tofail University with a background in Mathematics and Economics.
+* Highly skilled in Python (including the Pandas library), SQL, Pentaho, Data Warehousing (DWH), advanced Excel, and able to build and optimize data pipelines. I am well-equipped to tackle complex data challenges. My goal is to apply my skills and expertise to develop innovative solutions that positively impact my work community. I’m constantly learning and exploring new technologies in this ever-evolving field and look forward to collaborating with others who share my passion.
+
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
