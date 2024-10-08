@@ -56,7 +56,6 @@
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
   
 
 <br>
@@ -68,55 +67,15 @@
     ![Seaborn](https://img.shields.io/badge/BusinessObjectWEBI-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white)
     
 <br>
-
- 
- - **Server Administrations**:
-   
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-    ![Linux Red Hat](https://img.shields.io/badge/LinuxRedHat-EE0000?style=for-the-badge&logo=RedHat&logoColor=white)
-    ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
-    ![Bash Scripting](https://img.shields.io/badge/BashScripting-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
-
-<br>
- 
- - **Workflow Platforms**:
-
-    ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-
-    
-<br>
- 
- - **Version Control**:
-
-    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-    ![Virtual Machines](https://img.shields.io/badge/VirtualMachines-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)
-    
-<br>
-
-  - **Virtualization**:
-
-    ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
-    ![VMware Workstation](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
-    
- <br>
  
  - **Microsoft Office Tools**:
 
     ![Microsoft Excel](https://img.shields.io/badge/MicrosoftExcel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
     ![Microsoft PowerPoint](https://img.shields.io/badge/MicrosoftPowerPoint-B7472A?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white)
     ![Microsoft Word](https://img.shields.io/badge/MicrosoftWord-2B579A?style=for-the-badge&logo=MicrosoftWord&logoColor=white)
-    ![Microsoft Project](https://img.shields.io/badge/MicrosoftProject-BF4722?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
-    ![Microsoft OneNote](https://img.shields.io/badge/MicrosoftOneNote-7719AA?style=for-the-badge&logo=MicrosoftOneNote&logoColor=white)
 
  <br>
  
- - **Design**:
-
-    ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-    ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 
  </p>
  </samp>
