@@ -16,7 +16,7 @@
 
 ## :sassy_man:  About me
 
-* Enthusiastic Data Engineer and Analyst with hands-on experience in Data Engineering, Big Data, and Business Intelligence (BI). Specializing in databases, Data Warehousing (DWH), Extract, Transform, Load (ETL) processes, and data recovery. Proficient in SQL, ETL processes using SSIS and Pentaho, and advanced data analysis with Python (Pandas) and Excel. Committed to leveraging these skills to deliver data-driven solutions that empower decision-makers.
+* Enthusiastic Data Analyst with hands-on experience in Business Intelligence (BI). Specializing in databases, Data Warehousing (DWH), Extract, Transform, Load (ETL) processes, and data recovery. Proficient in SQL, ETL processes using SSIS and Pentaho, and advanced data analysis with Python (Pandas) and Excel. Committed to leveraging these skills to deliver data-driven solutions that empower decision-makers.
 * Enthusiastic learner eager to explore and master all technologies related to Data Analysis and Business Intelligence (BI)
 * Graduated from Ibn Tofail University with a background in Mathematics and Economics.
 * Highly skilled in Python (including the Pandas library), SQL, Pentaho, Data Warehousing (DWH), advanced Excel, and able to build and optimize data pipelines. I am well-equipped to tackle complex data challenges. My goal is to apply my skills and expertise to develop innovative solutions that positively impact my work community. I’m constantly learning and exploring new technologies in this ever-evolving field and look forward to collaborating with others who share my passion.
